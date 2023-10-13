@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeffRoth
 - 👀 I’m interested in machine learning and data analytics
-- 🌱 I’m currently learning how to build flask apps
+- 🌱 I’m currently learning how to use convolutional neural networks
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me jeffrey.b.roth@gmail.com<br><br>
 
