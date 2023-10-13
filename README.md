@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and data analytics
 - 🌱 I’m currently learning how to build flask apps
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
-- 📫 How to reach me jeffrey.b.roth@gmail.com<br>
+- 📫 How to reach me jeffrey.b.roth@gmail.com<br><br>
 
 - Check out my project portfolio at <a href ='https://jeffreyroth.carrd.co'>https://jeffreyroth.carrd.co</a>
 <!---
