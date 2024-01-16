@@ -4,7 +4,7 @@
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me jeffrey.b.roth@gmail.com<br><br>
 
-<h3>Find me on the Web:</h3><br>
+<h3>Find me on the Web 🌎:</h3><br>
 - Project Portfolio: <a href ='https://jeffreyroth.carrd.co'>https://jeffreyroth.carrd.co</a><br>
 - LinkedIn: <a href='https://www.linkedin.com/in/jeffrey-b-roth/'>https://www.linkedin.com/in/jeffrey-b-roth/</a>
 <!---
